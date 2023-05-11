@@ -48,7 +48,7 @@ source venv/bin/activate
   6. View the answer displayed in the app interface.
 
 ## License
-MIT License
+This project is licensed under the [MIT License](LICENSE).
 
 ### Acknowledgments:
 - [Streamlit](https://streamlit.io/) - The web application framework used for building the user interface.
