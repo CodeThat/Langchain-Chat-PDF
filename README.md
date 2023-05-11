@@ -33,12 +33,12 @@ source venv/bin/activate
 ```
 4. Install the required dependencies:
 
-```pip install -r requirements.txt```
+    ```pip install -r requirements.txt```
 
 Usage
   1. Make sure you have activated the virtual environment (if created).
   2. Run the script:
-  ```python script.py```
+      ```python script.py```
   
   3. Open your web browser and navigate to the provided local URL (e.g., http://localhost:8501).
 
@@ -52,7 +52,7 @@ License
 MIT License
 
 Acknowledgments
-Streamlit - The web application framework used for building the user interface.
-PyPDF2 - A library for reading PDF files.
-OpenAI - The language model and embeddings used in the script.
-langchain - The library for text splitting, embeddings, vector stores, and question answering.
+https://streamlit.io/  Streamlit - The web application framework used for building the user interface.
+https://github.com/mstamy2/PyPDF2 PyPDF2 - A library for reading PDF files.
+https://openai.com/ OpenAI - The language model and embeddings used in the script.
+https://github.com/langchain/langchain langchain - The library for text splitting, embeddings, vector stores, and question answering.
