@@ -51,7 +51,7 @@ source venv/bin/activate
 MIT License
 
 ### Acknowledgments:
-[Streamlit](https://streamlit.io/) - The web application framework used for building the user interface.
-[PyPDF2](https://github.com/mstamy2/PyPDF2) - A library for reading PDF files.
-[OpenAI](https://openai.com/) - The language model and embeddings used in the script.
-[LangChain](https://github.com/langchain/langchain) - The library for text splitting, embeddings, vector stores, and question answering.
+- [Streamlit](https://streamlit.io/) - The web application framework used for building the user interface.
+- [PyPDF2](https://github.com/mstamy2/PyPDF2) - A library for reading PDF files.
+- [OpenAI](https://openai.com/) - The language model and embeddings used in the script.
+- [LangChain](https://github.com/langchain/langchain) - The library for text splitting, embeddings, vector stores, and question answering.
