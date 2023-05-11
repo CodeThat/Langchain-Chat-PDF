@@ -55,3 +55,4 @@ This project is licensed under the [MIT License](LICENSE).
 - [PyPDF2](https://github.com/mstamy2/PyPDF2) - A library for reading PDF files.
 - [OpenAI](https://openai.com/) - The language model and embeddings used in the script.
 - [LangChain](https://github.com/langchain/langchain) - The library for text splitting, embeddings, vector stores, and question answering.
+- [FAISS](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/) a library that allows us to quickly search for multimedia documents that are similar to each other
