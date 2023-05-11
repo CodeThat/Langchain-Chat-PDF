@@ -50,6 +50,9 @@ source venv/bin/activate
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
+## TODO
+Add functionality to parse more doc types using langchain.
+
 ### Acknowledgments:
 - [Streamlit](https://streamlit.io/) - The web application framework used for building the user interface.
 - [PyPDF2](https://github.com/mstamy2/PyPDF2) - A library for reading PDF files.
