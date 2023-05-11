@@ -18,27 +18,26 @@ This Python script utilizes several libraries and modules to create a Streamlit 
 
 1. Clone the repository:
 
- 
-   ```git clone https://github.com/your-username/your-repository.git```
-   
+ ```git clone https://github.com/your-username/your-repository.git```
+
 2. Change to the project directory:
 
-```cd your-repository```
+ ```cd your-repository```
 
 3. Create a virtual environment (optional but recommended):
-
 ```
 python -m venv venv
 source venv/bin/activate
 ```
 4. Install the required dependencies:
 
-    ```pip install -r requirements.txt```
+ ```pip install -r requirements.txt```
 
-Usage
+## Usage
   1. Make sure you have activated the virtual environment (if created).
-  2. Run the script:
-      ```python script.py```
+  
+  3. Run the script:
+   ```python script.py```
   
   3. Open your web browser and navigate to the provided local URL (e.g., http://localhost:8501).
 
@@ -48,11 +47,11 @@ Usage
 
   6. View the answer displayed in the app interface.
 
-License
+## License
 MIT License
 
-Acknowledgments
-https://streamlit.io/  Streamlit - The web application framework used for building the user interface.
-https://github.com/mstamy2/PyPDF2 PyPDF2 - A library for reading PDF files.
-https://openai.com/ OpenAI - The language model and embeddings used in the script.
-https://github.com/langchain/langchain langchain - The library for text splitting, embeddings, vector stores, and question answering.
+### Acknowledgments:
+[Streamlit](https://streamlit.io/) - The web application framework used for building the user interface.
+[PyPDF2](https://github.com/mstamy2/PyPDF2) - A library for reading PDF files.
+[OpenAI](https://openai.com/) - The language model and embeddings used in the script.
+[LangChain](https://github.com/langchain/langchain) - The library for text splitting, embeddings, vector stores, and question answering.
