@@ -18,7 +18,7 @@ This Python script utilizes several libraries and modules to create a Streamlit 
 
 1. Clone the repository:
 
- ```git clone https://github.com/your-username/your-repository.git```
+ ```git clone https://github.com/CodeThat/Langchain-Chat-PDF.git```
 
 2. Change to the project directory:
 
